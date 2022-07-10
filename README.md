@@ -1,45 +1,72 @@
-<h1 align="center">Hey, I'm Harsh Sindhav</h1> 
+<h1 align="center">Hey, I'm Harsh Sindhav<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-## :wave: About Me 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+a+Full+stack+Web+developer!+%F0%9F%92%BB)](https://github.com/Uzcoin404)
 
-<a href="https://www.linkedin.com/in/harsh-s-66b38b193" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+- 🌱 I’m currently learning React Native
+- 💬 Ask me about Web sites Javascript and Programming
+- 🧑‍💻 I’m looking to collaborate on open source projects
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: My Nickname is also Harsh
+- 📫 How to reach me: 
 
-- 👩‍🎓 Hey! I am Harsh Sindhav Pre-Final Year Electrical Engineering Student (Minor in Information Technology) at DTU Delhi. My preferred pronouns are **he/him**.
-- :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript.
-- 👩‍💻 I am always open to collaborating on projects and innovative ideas.
-- ⚡ Reach out to me at **harsh.sindhav@gmail.com**
 
-<br/> 
+<a href="https://www.linkedin.com/in/harsh-s-66b38b193"><img src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-## 🔧 Technologies & Tools
-#### **Languages**
-<img height=25 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
 
-#### **Frameworks, Platforms and Libraries**
-<img height=25 src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/bootstrap-%23404d59.svg?style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/sass-%23404d59.svg?style=for-the-badge&logo=sass&logoColor=%2361DAFB">&nbsp;&nbsp;
 
-#### **Databases**
-<img height=25 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<h3 align="center">Languages and Tools:</h3>
 
-#### **DevOps & Cloud Tools**
-<img height=25 src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud&logoColor=white">&nbsp;&nbsp;
+<div style="display: inline-block"><br />
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-8b12fd?style=for-the-badge&logo=Bootstrap&logoColor=white" />
+    <img align="center" alt="Jquery" src="https://img.shields.io/badge/Jquery-0865a6?style=for-the-badge&logo=Jquery&logoColor=white" />
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-f0931c?style=for-the-badge&logo=java&logoColor=white" />
+    <img align="center" alt="API" src="https://img.shields.io/badge/API-202124?style=for-the-badge&logo=API&logoColor=white" />
+    <img align="center" alt="Github" src="https://img.shields.io/badge/Github-161b22?style=for-the-badge&logo=Github&logoColor=white" />
+    <img align="center"alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    
+</div>
 
-## 📈Github Stats
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
+<h3 align="center">Profile</h3>
+
 <p align="center">
-<a href="https://github.com/Harsh-Sindhav">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Harsh-Sindhav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harsh-Sindhav&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+
+![Harsh's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=
+Harsh-Sindhav&theme=nord_dark)
+![Harsh's github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsh-Sindhav&theme=nord_dark)
+![Harsh's github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harsh-Sindhav&theme=nord_dark)
+![Harsh's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harsh-Sindhav&theme=nord_dark)
+![Harsh's github stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harsh-Sindhav&theme=nord_dark)
+
 </p>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
+<p align="center">
+   
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Uzcoin404&column=6&theme=nord"/>
+
+</p>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+
+<details open="">
+  <p align="center">
+   <a href="https://github.com/Uzcoin404/Uzcoin404"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
+  </p>
+</details>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
+<div style="display: inline_block">
+    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+    <img align="right" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" />
+</div>
