@@ -52,7 +52,7 @@
 
 <p align="center">
    
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Uzcoin404&column=6&theme=nord"/>
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Harsh-Sindhav&column=6&theme=nord"/>
 
 </p>
 
