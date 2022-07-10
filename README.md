@@ -40,8 +40,7 @@
 
 <p align="center">
 
-![Harsh's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=
-Harsh-Sindhav&theme=nord_dark)
+![Harsh's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh-Sindhav&theme=nord_dark)
 ![Harsh's github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsh-Sindhav&theme=nord_dark)
 ![Harsh's github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harsh-Sindhav&theme=nord_dark)
 ![Harsh's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harsh-Sindhav&theme=nord_dark)
