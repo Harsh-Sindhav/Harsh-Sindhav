@@ -4,11 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+a+Full+stack+Web+developer!+%F0%9F%92%BB)](https://github.com/Uzcoin404)
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React 
 - 💬 Ask me about Web sites Javascript and Programming
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: My Nickname is also Harsh
 - 📫 How to reach me: 
 
 
